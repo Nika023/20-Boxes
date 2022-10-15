@@ -1,0 +1,33 @@
+ul {
+    width: 800px;
+    height: 100px;
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+   }
+  
+  .item {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    margin-left: 10px;
+  }
+  .item2 {
+    width: 50px;
+    height: 50px;
+    background: #7517ab;
+    margin-left: 10px;
+  }
+  .first {
+    width: 800px;
+    background-color: white;
+    border: 2px solid blue;
+    margin-bottom: 20px;
+  }
+  .second {
+    width: 800px;
+    background-color: rgb(236, 119, 119);
+    border: 2px solid blue;
+  }
